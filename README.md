@@ -42,7 +42,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-grid-nyl1gmcIpr)
-- Live Site URL: [Preview-Card-Component-NFT]([https://your-live-site-url.com](https://preview-card-component-nft.vercel.app/))
+- Live Site URL: [Preview-Card-Component-NFT]([https://your-live-site-url.com](https://preview-card-component-nft.vercel.app/)
 
 ## My process
 
