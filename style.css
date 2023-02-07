@@ -33,7 +33,6 @@ body {
   border-radius: 1rem;
   padding-inline: 1.6rem;
   padding-block: 1.6rem;
-  margin-inline: 10rem;
 }
 
 .container img {
@@ -179,16 +178,17 @@ body {
   cursor: pointer;
   color: var(--cyan);
   transition: all 0.5s;
+  /* color: rgba(27, 226, 199, 0.616); */
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 434px) {
   .attribution {
     font-size: 1.2rem;
     margin-left: 1rem;
   }
 
   .container {
-    margin-inline: 1.5rem;
+    margin-inline: 3rem;
     /* margin-left: 4rem; */
   }
 
